@@ -1,6 +1,7 @@
 ---
 name: Tutorial
-about: Pose a tutorial to be written for a topic.
+about: Request a tutorial to be written for a topic.
+
 ---
 
 # Goal: 
